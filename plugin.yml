@@ -1,0 +1,5 @@
+name: SkyColor
+version: 1.0
+author: bsn_nick
+description: Change the sky color!
+main: me.bsn_nick.skycolor.SkyColor
